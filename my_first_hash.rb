@@ -40,8 +40,7 @@ def adding
 
 
   # return the shipping_manifest hash below
-    {"gun powder"=> 4,"muskets" => 2, "porcelain vases" => 2, "oil paintings" =>3, "whale bone corsets" => 5}
+
     shipping_manifest ["pearl necklace"] = 1
     shipping_manifest
-  end
 end
